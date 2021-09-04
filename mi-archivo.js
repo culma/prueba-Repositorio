@@ -1,1 +1,2 @@
-alert("Editar archivo")
+alert("Editar archivo");
+console.log("Hola mundo");
